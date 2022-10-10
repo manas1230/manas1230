@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manas
-- 👀 I’m interested in trending technologies & analyzing data
+- 👀 I’m interested in coding & analyzing data
 - 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on basic data projects
+- 💞️ I’m looking to collaborate & start working on basic data projects
 - 📫 Reach me @ manas2224@gmail.com
 
 <!---
