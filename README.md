@@ -7,8 +7,6 @@
 manas1230/manas1230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align="left">I learn here-</h3>
-
-https://learn.microsoft.com/en-us/users/manasdash-2336/
+<h3 align="left">Social-</h3>
 
 https://www.hackerrank.com/lazzycat
